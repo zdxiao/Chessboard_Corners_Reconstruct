@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 2.8)
+project( Cheesboard_Reco )
+find_package(OpenCV REQUIRED)
+add_executable( Cheesboard_Reco cheesboard_reco.cpp )
+target_link_libraries( Cheesboard_Reco ${OpenCV_LIBS})
