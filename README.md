@@ -1,2 +1,2 @@
 # Chessboard_Corners_Reconstruct
-Reconstruct Chessboard corners by stereo images
+Reconstruct Chessboard corners from stereo images
